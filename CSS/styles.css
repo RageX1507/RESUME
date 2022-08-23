@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5.625rem;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    color: #11999E;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.625rem;
+    margin: 50px auto 0 auto;
+    color: #11999E;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: #CDF0EA;
+    position: relative;
+    padding-top: 50px;
+    height: 774px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 30px;
+    bottom: 580px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 50px;
+    bottom: 400px;    
+}
+/*.mountain {
+    position: relative;
+    bottom: 65px;
+    right: auto;
+    
+}*/
+.profile {
+    background-color: #EFFFFD;
+    height: 1250px;
+}
+.Education {
+    position: relative;
+    margin-bottom: 0px;
+    padding-top: 50px;
+    top: 0px;
+    height: 300px;   
+    background-color: #EFFFFD;
+    
+
+}
+.edu {
+   text-align: center;
+    background-color: #EFFFFD;
+    position: relative;
+    padding-top: 20px;
+    
+    
+    padding-left: 100px;
+}
+
+.bottom {
+    position: relative;
+    margin-top: 0px;
+    padding-top: 50px;
+    background-color: #EFFFFD;
+    height: 1950px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
+}
+.photo {
+    padding-top: 50px;
+}
+.bottom-container {
+    background-color:#11999E;
+    height: 60px;
+    padding-top: 50px;
+}
+.button {
+    background-color: #11999E   ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.a-programmer {
+    padding-bottom: 100px;
+}
